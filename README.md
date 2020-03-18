@@ -1,7 +1,6 @@
 # Einstein Tribute Page
 Página Simples em HTML e CSS, um tributo ao físico Albert Einstein.
-	/apm/l/:packageName
-------------------------------------------------------------------------
+
 ## Installation
 Este projeto não necessita de instalação. Basta baixá-lo como zip, ou cloná-lo em sua máquina.
 
